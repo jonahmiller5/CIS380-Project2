@@ -1,0 +1,15 @@
+*.DS_Store
+.vscode
+*.gch
+*.o
+*.dSYM
+PennOS
+flatFAT
+catFlatFAT
+lsFlatFAT
+mkFlatFAT
+logger.txt*
+Doxyfile
+html/
+latex/
+*.log
